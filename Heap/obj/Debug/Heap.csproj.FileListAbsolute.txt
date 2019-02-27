@@ -1,0 +1,6 @@
+E:\MyWorkSpace\vs2015\Heap\Heap\bin\Debug\Heap.exe.config
+E:\MyWorkSpace\vs2015\Heap\Heap\bin\Debug\Heap.exe
+E:\MyWorkSpace\vs2015\Heap\Heap\bin\Debug\Heap.pdb
+E:\MyWorkSpace\vs2015\Heap\Heap\obj\Debug\Heap.csprojResolveAssemblyReference.cache
+E:\MyWorkSpace\vs2015\Heap\Heap\obj\Debug\Heap.exe
+E:\MyWorkSpace\vs2015\Heap\Heap\obj\Debug\Heap.pdb
